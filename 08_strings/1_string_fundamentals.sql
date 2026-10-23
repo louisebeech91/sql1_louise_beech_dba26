@@ -31,7 +31,7 @@ SELECT
 
 --clean a string
 SELECT
-    s
+    s,
     TRIM(s),
     LTRIM(s),
     RTRIM(s),
